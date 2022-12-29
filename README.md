@@ -2,7 +2,7 @@
 This is the answer of Laboratory Projects  for  Digital Image Processing in Python with opencv.
 
 |Project No|Title|
-|--|:--:|--:|
+
 Proj02-01 Image Printing Program Based on Halftoning. 
 Proj02-02 Reducing the Number of Intensity Levels in an Image. 
 Proj02-03 Zooming and Shrinking Images by Pixel Replication. 
